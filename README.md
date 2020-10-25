@@ -1,0 +1,2 @@
+# OTSU-and-Entropy
+ImgProcess4文件夹里是基于Opencv实现的OTSU算法和一维熵阈值分割算法
